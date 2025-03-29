@@ -12,4 +12,4 @@
     
 ----
 # 用法
-将项目中/static/js/constants.js 'authorization_token'和'assistant_id'字段改为自己的即可。
+将项目中/static/js/constants.js文件里的`authorization_token`和`assistant_id`字段改为自己的即可。
