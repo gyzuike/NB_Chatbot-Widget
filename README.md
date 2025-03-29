@@ -1,6 +1,7 @@
 # NB_Chatbot-Widget
-以Chatbot-Widget为基础修改，对接腾讯元气和coze的智能体，作为定制网页客服功能。   
-为防止网络不稳定等突发情况，已将所有外网css、字体等放在本地加载。
+· 以Chatbot-Widget为基础修改，对接腾讯元气和coze的智能体，作为定制网页客服功能。   
+· 所有协议、限制等，均以[Chatbot-Widget](https://github.com/JiteshGaikwad/Chatbot-Widget?tab=readme-ov-file)为主。    
+· 为防止网络不稳定等突发情况，已将所有外网css、字体等放在本地加载。
 
 ----
     
